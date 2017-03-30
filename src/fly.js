@@ -85,7 +85,7 @@
     self.play = function () {
       this.move();
     };
-
+   
     /**
      * 按step运动
      */
